@@ -2,6 +2,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="dengxingwang laboratory in Peking University studying on rice heterosis" />
+<meta name="keywords" content="dengxingwang,Peking University,rice,heterosis" />
 <title>Deng Lab</title>
 <link rel="stylesheet" type="text/css" href="css/stye.css" />
 
@@ -34,93 +36,25 @@ document.getElementById("a1").style.backgroundColor="";
    
 	<div id="nav">
 		<ul>
-			<li><a href="index.html" >Research</a></li>
-			<li onclick="recover_nav_bg()" id="a1"><a href="index_people.html">People</a></li>
+			<li><a href="index.html" id="a1">Research</a></li>
+			<li onclick="recover_nav_bg()"><a href="index_people.html">People</a></li>
 			<li onclick="recover_nav_bg()"><a href="index_publication.html">Publications</a></li>
-			<li><a href="yale_index.html" target="_blank" >Former Yale Lab Website</a></li>
+			<li><a href="yale_index.html" target="_blank">Former Yale Lab Website</a></li>
 			<li onclick="recover_nav_bg()"><a href="index_contact.html">Contact</a></li>
 		</ul>
 	</div>
-  <div id="content">
-    
-
-    <div id="inf_total">
-		<div id="content_self_picture">
-        <img src="pictures/people/hehang.jpg" width="160" height="200" /> </div>
-     	<div id="content_people_introduction">
-		<table cellpadding="5">
-        	<tr><td width="121" style="font-size:20px; color:#9a0000; ">何航</td></tr>
-            <tr><td>邮　　箱：</td><td width="601">hehang（AT）pku.edu.cn</td></tr>
-            <tr><td>职　　称：</td><td>副研究员</td></tr>
-            <tr><td>办公室地址：</td><td>北京市海淀区颐和园路5号，北京大学，王克桢楼，100871</td></tr>
-            <tr><td>实验室地址：</td><td>北京市海淀区颐和园路5号，北京大学，王克桢楼，100871</td></tr>
-        </table>
-     	</div>
-     
-	</div>
-	
-    <div   style="display:block;   border-bottom:1px solid #9a0000;  margin-top:14px;  font-size:20px;  font-family:'微软雅黑';    height:34px; color:#fff;  ">
-        <div style="float:left;   font-weight:bold; text-align:left;    font-family:'微软雅黑'; line-height:34px; font-size:18px; color:#454545; font-size:18px; color:#9a0000;"> 个人简历</div></div>
-	    <br />
-
-	<div class="paragraph_title">教育经历</div>
-        <div class="paragraph">
-		2009 - 2011 , 博士后 , 生物信息学 , 北京大学<br />
-2004 - 2009 , 理学博士 , 生物信息学 , 中科院生物物理所<br />
-2000 - 2004 , 理学学士 , 应用数学 , 北京大学</div>
-         
-        <div class="paragraph_title">工作经历</div>
-        <div class="paragraph">
-		2011 - 至今 , 副研究员 , 北京大学
-	</div>
-
-	<div class="paragraph_title">科研领域描述</div>
-        <div class="paragraph">
-		通过生物信息学方法建立系统生物学研究平台；开展杂交优势的分子机制研究，以及分子设计育种分析。<br />
-1.生物信息平台的建设和应用<br />
-　　生物信息学是在生命科学的研究中，利用信息技术对大量而复杂的生物数据进行存储、检索和分析，进而揭示生物学奥秘的新兴学科。近年来，随着基因组序列的不断完善和各种大通量采集数据实验方法的开发，生物信息学也在生物研究中起到越来越重要的作用。本课题组通过长期基因组水平转录组及表观遗传组的研究，建立起较完善的生物信息平台。具体通过设计合理的高通量实验、开发大规模数据快速处理的软件、对实验数据进行可靠处理流程、提供可视化方案、利用各种信息学统计学方法发掘海量数据的生物学意义这一系列步骤，对植物体内各种机理研究和生物技术的应用都有重要作用。<br />
-2.杂交优势<br />
-　　杂交优势是自然界普遍存在的一种复杂生物学现象，在农业生产中获得了广泛的应用。但是杂交优势的分子遗传机理迄今尚不清楚。随着分子生物学、基因组学和生物信息学研究的深入和发展，利用系统生物学手段开展杂交优势分子机理的研究，具有重要的科学意义和实际应用价值。基因型异质的亲本其杂交子一代许多性状上不同于双亲，这必然涉及到亲本基因组在杂交遗传背景中相互作用而引起基因表达调控发生变化。目前，我们利用高通量测序技术对具有不同优势的杂交组合的亲本和子一代不同组织在不同环境条件下进行全基因组基因差异表达分析，并进一步分析造成这种差异表达基于顺式作用元件和反式调控因子DNA序列多态性的遗传机制，以及基于DNA甲基化、组蛋白修饰、染色质重塑和非编码RNA的表观遗传机制，全面探索杂交优势的可能分子机制。<br />
-3.植物基因组大数据研究<br />
-　　随着更多新技术在农业生产中应用，我们可以从大量基因型和表型数据出发，快速发掘水稻玉米等作物中的功能基因，同时整合多种有利性状，开展全基因组选择育种。目前，本课题组通过对多个水稻品种全基因组重测序结果的分析，提取了大量单核苷酸多态性（Single Nucleotide Polymorphisms, SNP）位点，与张启发团队共同建立了水稻中第一个高通量的SNP标记芯片检测平台。目前我们正运用这些检测平台，对各种水稻种质资源和杂交分离群体进行分型分析，在全基因组层次建立性状与标记的关联性，进一步通过数学建模，开展分子设计育种。<br />
+	<div id="content">
+	<br />
+    <div style=" border-bottom:1px solid #9a0000; line-height:40px; margin-top:8px; height:45px;  font-size:18px; font-family:'微软雅黑';color:#9a0000; font-weight:bold;">科研领域描述 </div>
+      <div style="  line-height:25px; color:#000; font-size:14px; width:960px; height:auto; margin:0 auto;" ><br />
+        <div class="paragraph">邓兴旺课题组以拟南芥、水稻等为研究对象，主要从事植物光信号转导、非编码RNA、植物杂种优势分子机理和分子设计育种领域的研究工作。本课题组目前有教授1人，副研究员4人，博士后、技术员和博士研究生多名，实验室建有配套齐全的植物基因组学、分子生物学、生物信息学等研究平台，具有长期的植物基因组学及分子生物学研究经验。实验室具体研究方向如下：</div>
+        <div class="paragraph_title">1. 植物光形态建成的分子机理</div><div class="paragraph">光是对于植物发育最重要也是最基本的生长信号。本实验室多年来以拟南芥为模式植物，通过遗传筛选获得了一系列光形态建成的抑制因子COP/DET/FUS。它们的突变体在暗中可以完成不同程度的光形态建成。多年的研究结果表明，这些因子在植物体内可以形成三个复合体并通过参与或调节泛素化途径来调控光信号传导。目前，在此基础上，我们将继续综合运用遗传学、生物化学、分子生物学、细胞生物学等实验手段，进一步解析光形态建成中的信号传导通路。</div><div class="paragraph_title">2. 植物非编码RNA功能分析</div>
+        <div class="paragraph">非编码RNA是直接以RNA形式行使生物学功能的核糖核酸群体的总称。本实验室通过独特的分离方式以及深度测序技术，在拟南芥和水稻全基因组中对50-300核苷酸长度的非编码RNA进行了注释，并结合分子生物学，生物化学及细胞生物学等手段，探讨：小核仁RNA在拟南芥生长发育中的作用机理；非编码RNA参与拟南芥光形态建成中的分子机理；由较长非编码RNA产生的小分子RNA在拟南芥及水稻发育调控中的作用机理。</div><div class="paragraph_title">3. 植物杂种优势形成的分子机理</div>
+        <div class="paragraph">杂种优势是自然界普遍存在的一种复杂生物学现象，在农业生产中得到了广泛的应用。但是，对于杂种优势形成的分子遗传机理迄今尚未阐述清楚。本实验室以水稻、玉米和拟南芥为研究对象，采用高通量测序技术，对具有不同优势程度的杂交组合进行全基因组基因差异表达分析，进一步分析造成这种差异表达的基于顺、反式调控的遗传机制，以及基于DNA甲基化、组蛋白修饰和非编码RNA的表观遗传机制。并通过整合杂种优势的经典遗传学假说，在分子水平上解析杂种优势形成的机理，为在农业生产上更好地应用杂种优势现象进行杂交育种提供理论指导。</div><div class="paragraph_title">4. 水稻功能基因组与分子设计育种</div>
+        <div class="paragraph">传统水稻育种依赖于育种家的经验，需要从大量的水稻杂交后代中挑选优良水稻株系，效率较低。随着基因组学与分子生物学技术的进步，在育种过程中对调控特定性状的基因位点进行跟踪成为了可能。我们通过利 用大量的水稻全基因组重测序信息，创制了水稻高密度单核苷酸多态性(SNP)芯片，并将其应用于水稻育种，从而使得水稻育种成为可以精确设计与控制的过程。我们创制的芯片及相应的设计流程大大提高了水稻育种效率，加快了培育高产、优质、多抗水稻品种的进程。</div>
+</div>
 
 	</div>
-   
-        
-        <div class="paragraph_title">代表性论文</div>
-        <div class="paragraph">
-		(#: Co-author; *: Corresponding author)<br />
-2015<br />
-1. Liu Y, Zhou M, Gao Z, Ren W, Yang F, He H*, Zhao J*., RNA-Seq Analysis Reveals MAPKKK Family Members Related to Drought Tolerance in Maize. PLoS One. 2015 Nov 24;10(11):e0143128.<br />
-2. The IC4R Project Consortium (as Co-corresponding author)., Information Commons for Rice (IC4R)., Nucl. Acids Res., 2015, Oct; doi: 10.1093/nar/gkv1141.<br />
-3. Zhen G, Zhang L, Du Y, Yu R, Liu X, Cao F, Chang Q, Deng XW*, Xia M*, He H*., De novo assembly and comparative analysis of root transcriptomes from different varieties of Panax ginseng C. A. Meyer grown in different environments., Sci China Life Sci., 2015, Nov; 58(11):1099-110.<br />
-4. Zhou D, Chen W, Lin Z, Chen H, Wang C, Li H, Yu R, Zhang F, Zhen G, Yi J, Li K, Liu Y, Terzaghi W, Tang X, He H*, Zhou S*, Deng XW*., Pedigree-based analysis of derivation of genome segments of an elite rice reveals key regions during its breeding., Plant Biotechnol J , 2015 Jun 10. doi: 10.1111/pbi.12409.<br />
-<br />
-2014<br />
-1. Chen S, He H*, Deng XW*., Allele-specific DNA methylation analyses associated with siRNAs in Arabidopsis hybrids, Sci China Life Sci, 2014, 57(5):519-25.<br />
-<br />
-2013<br />
-1. Chen W, Chen H, Zheng T, Yu R, Terzaghi WB, Li Z, Deng XW, Xu J*, He H*., Highly efficient genotyping of rice biparental populations by GoldenGate assays based on parental resequencing., Theor Appl Genet, 2013, 10.1007/s00122-013-2218-2.<br />
-2. Chen H#, Xie W#, He H#, Yu H#, Chen W, Li J, Yu R, Yao Y, Zhang W, He Y, Tang X, Zhou F, Deng XW, Zhang Q., A High-Density SNP Genotyping Array for Rice Biology and Molecular Breeding., Mol Plant, 2013, 10.1093/mp/sst135.<br />
-3. He G, He H, Deng XW., Epigenetic variations in plant hybrids and their potential roles in heterosis., J Genet Genomics, 2013, 40(5):205-10.<br />
-4. Chen H, He H, Zhou F, Yu H, Deng XW., Development of genomics-based genotyping platforms and their applications in rice breeding., Curr Opin Plant Biol., 2013, 16(2):247-54.<br />
-<br />
-2012<br />
-1. Shen H#, He H#, Li J, Chen W, Wang X, Guo L, Peng Z, He G, Zhong S, Qi Y, Terzaghi W, Deng XW., Genome-wide analysis of DNA methylation and gene expression changes in two Arabidopsis ecotypes and their reciprocal hybrids., Plant Cell, 2012, 24(3):875-92.<br />
-<br />
-2011<br />
-1. Chen H#, He H#, Zou Y#, Chen W, Yu R, Liu X, Yang Y, Gao YM, Xu JL, Fan LM, Li Y, Li ZK, Deng XW. , Development and application of a set of breeder-friendly SNP markers for genetic analyses and molecular breeding of rice (Oryza sativa L.)., Theor Appl Genet, 2011, 123(6):869-79.<br />
-2. Zhang H, He H, Wang X, Wang X, Yang X, Li L, Deng XW., Genome-wide mapping of the HY5-mediated gene networks in Arabidopsis that involve both transcriptional and post-transcriptional regulation., Plant J, 2011, 65(3):346-58.<br />
-<br />
-Before 2011<br />
-1. He H, Zhang H, Wang X, Wu N, Yang X, Chen R, Li Y, Deng XW, Li L., Development of a versatile, target-oriented tiling microarray assay for measuring allele-specific gene expression., Genomics, 2010, 96(5):308-15.<br />
-2. Charron JB#, He H#, Ellinga AA, Deng XW., Dynamic landscapes of four histone modifications during deetiolation in Arabidopsis., Plant Cell, 2009, 21(12):3732-48.<br />
-3. Li L#, He H#, Zhang J, Wang X, Bai S, Stolc V, Tongprasit W, Young ND, Yu O, Deng XW., Transcriptional analysis of highly syntenic regions between Medicago truncatula and Glycine max using tiling microarrays., Genome Biol, 2008, 9(3):R57.<br />
-4. Zhang HY#, He H#, Chen LB, Li L, Liang MZ, Wang XF, Liu XG, He GM, Chen RS, Ma LG, and Deng XW., A genome-wide transcription analysis reveals a close correlation of promoter INDEL polymorphism and heterotic gene expression in rice hybrids., Mol Plant, 2008, 1(5):720-31.<br />
-5. Wang X#, He H#, Li L, Chen R, Deng XW, Li S., NMPP: a user-customized NimbleGen microarray data processing pipeline., Bioinformatics, 2006, 22(23):2955-7.
-	</div>
-
-  </div>
 
 	<div id="location"><p><b>Copyright &copy; 2016 Xing Wang Deng Lab All Rights Reserved.</b></p></div>
 </div>
